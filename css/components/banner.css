@@ -1,0 +1,19 @@
+.banner {
+  height: 200px;
+  background-size: cover;
+  padding: 50px;
+}
+
+.banner h1, .banner p, .banner a {
+  text-align: right;
+}
+.banner h1 {
+  font-size: 30px;
+  font-family: 'Carter One', cursive;
+}
+
+.banner p {
+  font-size: 20px;
+  margin-bottom: 45px;
+  font-family: 'PT Sans Narrow', sans-serif;
+}

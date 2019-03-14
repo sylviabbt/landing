@@ -1,0 +1,31 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Carter+One|PT+Sans+Narrow');
+
+/* Fontawesome */
+
+@import url("components/cards.css");
+
+@import url("components/banner.css");
+
+@import url("components/footer.css");
+
+@import url("components/button.css");
+
+@import url('https://use.fontawesome.com/releases/v5.7.2/css/all.css');
+
+/* Utilities */
+body {
+  margin: 0;
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Carter One', cursive;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Custom design below! */
+

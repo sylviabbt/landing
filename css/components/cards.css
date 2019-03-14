@@ -1,0 +1,17 @@
+h2 {
+  margin-left: 20px;
+  font-family: 'Carter One', cursive;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  width: 100%
+  height: 400px;
+}
+
+.card-yellow img{
+  width: 200px;
+  height: 200px;
+}
